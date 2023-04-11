@@ -7,5 +7,15 @@
     color:lightcoral;
     font-size: 25px;
     padding-left: 30px;
-    
+
+}
+.Impressum h1{
+    font-size:20px;
+    text-align:center;
+    padding-left:30px;
+}
+.Impressum p{
+    font-size:15px;
+    text-align:center;
+    padding-left:30px;
 }
