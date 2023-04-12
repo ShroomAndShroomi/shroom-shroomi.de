@@ -20,6 +20,13 @@
     padding-left:30px;
     background-color: rgb(240, 113, 119);
 }
+.Impressum div.kreis{
+    width:5px;
+    height: 5px;
+    color:white;
+    border-radius: 5px/5px;
+    background-color: white;
+}
 .Pilzstiehl{
     height:10px;
     width:100%;
