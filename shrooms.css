@@ -18,5 +18,15 @@
     font-size:15px;
     text-align:center;
     padding-left:30px;
-    background-color: antiquewhite;
+    background-color: rgb(240, 113, 119);
+}
+.Pilzstiehl{
+    height:10px;
+    width:100%;
+    background-color: bisque;
+}
+.Pilzboden{
+    height:5px;
+    width:100%;
+    background-color: rgb(112, 199, 112);
 }
