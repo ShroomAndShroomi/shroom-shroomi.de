@@ -1,7 +1,10 @@
+body{
+    margin: 0;
+}
+
 .Welcome h1{
     font-size: 40px;
     text-align: center;
-    padding-left:20px;
 }
 .Welcome p{
     color:lightcoral;
@@ -9,15 +12,13 @@
     padding-left: 30px;
 
 }
-.Impressum h1{
+.Pilzadresse h1{
     font-size:20px;
     text-align:center;
-    padding-left:30px;
 }
-.Impressum p{
+.Pilzadresse p{
     font-size:15px;
     text-align:center;
-    padding-left:30px;
     background-color: rgb(240, 113, 119);
 }
 .Pilzstiehl{
