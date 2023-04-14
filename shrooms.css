@@ -2,11 +2,21 @@ body{
     margin: 0;
 }
 
-.Welcome h1{
+.PilzeSagenHallo h1{
     font-size: 40px;
     text-align: center;
 }
 .PilzeSagenHallo p{
+    color:lightcoral;
+    font-size: 25px;
+    padding-left: 30px;
+
+}
+.Pilzkönigreich h1{
+    font-size: 40px;
+    text-align: center;
+}
+.Pilzkönigreich p{
     color:lightcoral;
     font-size: 25px;
     padding-left: 30px;
