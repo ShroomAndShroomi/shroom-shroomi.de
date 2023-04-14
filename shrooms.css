@@ -21,7 +21,8 @@ body{
     color:lightcoral;
     font-size: 25px;
     padding-left: 30px;
-    text-align: center;
+    text-align: left;
+    align-items: center;
 
 }
 .Pilzadresse h1{
